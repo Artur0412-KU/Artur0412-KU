@@ -37,16 +37,13 @@
 
 ### 📱 Contact:
 
-<a href = "https://t.me/ararutur"><img width = "30px" src = "https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" /> </a> <br/>
-<a href = "https://www.instagram.com/04.art.12/"><img width = "30px" src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/instagram/instagram.svg"/></a> <br/>
+<a href = "https://t.me/ararutur"><img width = "30px" src = "https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" /> </a> <br/> <a href = "https://www.instagram.com/04.art.12/"><img width = "30px" src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/instagram/instagram.svg"/></a> <br/>
 
 ### 🎮 If you're a gamer, you can find me on:
 
 ---
 
-<a href = "https://steamcommunity.com/profiles/76561198985006302/"><img width = "30px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--qQlAR8UU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mishmanners/MishManners/raw/master/Game%2520Icons/Steam.png" /> </a> <br/>
-<a href = "https://store.epicgames.com/en-US/u/6a64b77f036546c093e1b44d993e7414"><img width = "30px" src = "https://avatars.githubusercontent.com/u/6615685?s=200&v=4" /> </a> <br/>
-<a href = "https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=uD7y-EhtVgKEyKBa_iBVwzzgD5dyExjMknPwzCcCuv3i5oRuWMpCrJ-3eB1wizMjrWeneq8geIQLx5SjqiZ0-87DNL81&wa=wsignin1.0"><img width = "30px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--Gs08Vrmp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mishmanners/MishManners/raw/master/Game%2520Icons/Xbox.png" /> </a> <br/>
+<a href = "https://steamcommunity.com/profiles/76561198985006302/"><img width = "30px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--qQlAR8UU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mishmanners/MishManners/raw/master/Game%2520Icons/Steam.png" /> </a> <br/> <a href = "https://store.epicgames.com/en-US/u/6a64b77f036546c093e1b44d993e7414"><img width = "30px" src = "https://avatars.githubusercontent.com/u/6615685?s=200&v=4" /> </a> <br/> <a href = "https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=uD7y-EhtVgKEyKBa_iBVwzzgD5dyExjMknPwzCcCuv3i5oRuWMpCrJ-3eB1wizMjrWeneq8geIQLx5SjqiZ0-87DNL81&wa=wsignin1.0"><img width = "30px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--Gs08Vrmp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mishmanners/MishManners/raw/master/Game%2520Icons/Xbox.png" /> </a> <br/>
 
 ---
 
