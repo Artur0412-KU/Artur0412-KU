@@ -1,6 +1,6 @@
 # 🤔 Who I am? 🤔
 
-**`Frontend Developer`** **`React/React native`**
+**`Frontend Developer`** **`React/React Native`**
 
 ### 🌎 Hello World!
 
