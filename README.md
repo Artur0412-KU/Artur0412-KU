@@ -38,13 +38,8 @@
 
 ### 📱 Contact:
 
-<a href = "https://t.me/ararutur"><img width = "30px" src = "https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" /> </a> <a href = "https://www.instagram.com/04.art.12/"><img width = "30px" src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/instagram/instagram.svg"/></a> <br/>
-
-### 🎮 If you're a gamer, you can find me on:
-
----
-
-<a href = "https://steamcommunity.com/profiles/76561198985006302/"><img width = "30px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--qQlAR8UU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mishmanners/MishManners/raw/master/Game%2520Icons/Steam.png" /> </a> <a href = "https://store.epicgames.com/en-US/u/6a64b77f036546c093e1b44d993e7414"><img width = "30px" src = "https://img.icons8.com/?size=100&id=oDphkoWwBm40&format=png&color=000000" /> </a>
+<a href = "https://t.me/ararutur"><img width = "30px" src = "https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" /> </a> 
+<a href = "https://www.instagram.com/04.art.12/"><img width = "30px" src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/instagram/instagram.svg"/></a>
 
 ---
 
