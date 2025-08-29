@@ -24,7 +24,7 @@
 ### 🚶‍♂️ My hobbies:
 
 🚲 Cycling <br/>
-🎮 Gaming (Cyberpunk 2077 my favorite game) <br/>
+🎮 Gaming <br/>
 🌎 Travelling <br/>
 🏊‍♂️ Swimming <br/>
 
@@ -40,9 +40,3 @@
 
 <a href = "https://t.me/ararutur"><img width = "30px" src = "https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" /> </a> 
 <a href = "https://www.instagram.com/04.art.12/"><img width = "30px" src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/instagram/instagram.svg"/></a>
-
----
-
-💙💛 - Glory to Ukraine!
-
-💙🤍💙 - Stand with Israel!
